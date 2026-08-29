@@ -1,4 +1,4 @@
-# How to setup two-tier application deployment on kubernetes cluster
+# Setup two-tier application deployment on kubernetes cluster
 ## First setup kubernetes kubeadm cluster
 
 
